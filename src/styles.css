@@ -1,0 +1,10 @@
+html,
+body {
+  background-color: rgb(40, 40, 40);
+  color: antiquewhite;
+}
+
+img {
+  height: 200px;
+  width: 100%;
+}
